@@ -3,7 +3,7 @@ package com.sunxu.binarysearchtree.searchinbst;
 /**
  * @author 孙许
  * @date 2018-09-02
- * @description
+ * @description 二叉树的搜索
  */
 public class BST<E extends Comparable<E>> {
     /**
